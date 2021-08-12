@@ -1,0 +1,15 @@
+
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: #FFEDA2;
+  text-align: center;
+}
+p {
+  color: blue;
+  text-align: center;
+  font-family: verdana;
+  font-size: 20px;
+} 
