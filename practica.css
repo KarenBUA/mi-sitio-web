@@ -1,15 +1,70 @@
 
+
+
+
 body {
-  background-color: lightblue;
+  background-color: #fff;
+  font-weight: 30px;
+
 }
 
 h1 {
-  color: #FFEDA2;
-  text-align: center;
+  color: #610967;
+  text-align:center;
+  font-family:verdana;
+  font-size: 60px;
+  font-weight: normal;
+  text-shadow: black 6px 6px 8px;
+
 }
+
 p {
-  color: blue;
-  text-align: center;
+  color: #2d122f;
+  text-align: left;
   font-family: verdana;
   font-size: 20px;
-} 
+  margin-left: 100px;
+  background-color: #a669c1;
+}
+
+hr{
+  border-color: #610967;
+  border-style: dotted;
+  border-width: 1px 
+}
+
+h2{ 
+   color:#4a3c4b ;
+   font-family: verdana;
+   font-size:30px ;
+   text-align: left;
+   font-weight: 20px;
+   letter-spacing: 4px;
+   margin-left: 100px;
+}
+
+ol { 
+   text-align: left;
+   font-family: verdana;
+   font-size: 16px;
+   margin-left: 100px;
+   margin-right: 900px;
+   background-color: #de9bfd; 
+}
+
+ul {
+   text-align: left;
+   font-family: verdana;
+   font-size: 16px;
+   margin-left: 100px;
+   margin-right: 600px;
+   background-color: #de9bfd; 
+
+
+}
+
+
+
+
+
+
